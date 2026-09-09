@@ -15,13 +15,6 @@
     <img src="https://img.shields.io/badge/Language-Go_%7C_Java-0070F3?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Optimizing_Concurrency-00F5D4?style=for-the-badge&logo=git&logoColor=black" />
   </p>
-
-  <!-- Connect Banner Buttons -->
-  <p align="center">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com"><img src="https://img.shields.io/badge/X_Twitter-000000?style=flat-square&logo=x&logoColor=white" /></a>
-    <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
 </div>
 
 ---
@@ -80,16 +73,5 @@ specs:
 
 ---
 
-### 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dean-2/dean-2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dean-2/dean-2/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dean-2/dean-2/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=footer"/>
-</div>
