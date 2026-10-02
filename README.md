@@ -1,77 +1,52 @@
-<div align="center">
+# Backend & Systems Development
 
-  <!-- Dynamic Typing Header -->
-  <a href="https://github.com/dean-2">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=620&lines=System.init(%22Utkarsh%22);;Distributed+Systems+%7C+Low-Latency+Eng;;Obsessed+with+Concurrency+%26+Scale;;git+commit+-m+%22Shipping+hard+systems%22" alt="Typing SVG" />
-  </a>
+Interested in backend engineering, systems programming, and distributed systems.
 
-  <p align="center">
-    <code>Architecting resilient backends, distributed primitives, and high-throughput engines.</code>
-  </p>
+I build projects to explore how software works under the hood, from networking and storage engines to automation and reliability.
 
-  <!-- Animated Floating Pill Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Distributed_Systems-7928CA?style=for-the-badge&logo=target&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Go_%7C_Java-0070F3?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Optimizing_Concurrency-00F5D4?style=for-the-badge&logo=git&logoColor=black" />
-  </p>
-</div>
+## Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,java,postgres,redis,docker,git" alt="Technologies: Go, C++, Python, Java, PostgreSQL, Redis, Docker, Git" />
+</p>
 
-### ⚡ System Telemetry & Mission Control
+## GitHub Stats
 
-```bash
-$ userctl info dean-2
-```
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dean-2&show_icons=true&hide_title=true&theme=transparent"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dean-2&layout=compact&theme=transparent"
+    alt="Most used languages"
+  />
+</p>
 
-```yaml
-identity:
-  handle: "dean-2"
-  domain: "Backend Engineering & Systems Design"
-  current_flagship: "HallownestKV (Distributed In-Memory Store in Go)"
-specs:
-  core_competencies: ["Distributed Storage", "Lock-Free Primitives", "Clean Architecture"]
-  current_grind: "LSM-Trees, Raft Consensus, Cache Eviction Engines"
-  creed: "If it doesn't run concurrently with clean locks, rewrite it."
-```
+## Featured Projects
 
----
+### [HallownestKV](https://github.com/dean-2/HallownestKV)
+An experimental key-value storage project exploring storage engine design and distributed systems concepts.
 
-### 🕹️ Weapon of Choice // Tech Stack
+- Write-ahead logging, MemTables, SSTables, and Bloom filters
+- Standalone LSM-tree components and an in-memory Raft prototype
+- HTTP API and custom TCP interface
 
-<div align="center">
+### [Network Calculator](https://github.com/dean-2)
+A Go-based TCP client-server application with a custom persistent protocol.
 
-| Domain | Stack & Primitives |
-| :--- | :--- |
-| **Primary Engines** | <img src="https://skillicons.dev/icons?i=go,java,py,cpp" /> |
-| **Backend & Services** | <img src="https://skillicons.dev/icons?i=spring,fastapi,redis,postgres" /> |
-| **Infrastructure & Ops** | <img src="https://skillicons.dev/icons?i=docker,git,linux,bash" /> |
+- Custom client and server
+- Persistent TCP communication
+- Protocol design, testing, and race detection
 
-</div>
+### [Software Maintenance Agent](https://github.com/dean-2)
+An ongoing Go and Python project exploring automated bug reproduction and code repair.
 
----
+- Bug reproduction and patch generation
+- Automated test validation
+- Human review before accepting repairs
 
-### 📊 Performance Metrics
+## Profiles
 
-<div align="center">
-
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=dean-2&theme=tokyonight&hide_border=true&stroke=00F5D4&background=0D1117&ring=00F5D4&fire=FF007F" alt="GitHub Streak" width="49%" />
-  
-  <!-- Langs Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dean-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=A9B1D6" alt="Top Languages" width="45%" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <!-- General Stats Card with Custom Cyberpunk Accents -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dean-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF007F&text_color=A9B1D6" alt="Main Stats" width="80%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=70&section=footer"/>
+- [GitHub](https://github.com/dean-2)
+- [Codeforces](https://codeforces.com/profile/Dean_Rank_2)
